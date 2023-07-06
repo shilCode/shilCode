@@ -1,5 +1,6 @@
-<h1 align="center">Hiya 👋, I'm Mohat</h1>
-<h3 align="center">A passionate QA Engineer</h3>
+<h1 align="left">Hi 👋🏽 I am Mohat Shil</h1>
+<h3 align="left">A passionate QA Engineer </h3>
+<IMG align="right" SRC="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05c3R5Y21vcnlrNXpnMDBlNWl6Z2EzNWw0YTY0Y2NyenhtdzEydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4n42JVSqqUvAQg/200w.gif">
 
 - 🔭 I’m currently working on [Playwright - UI/API](https://github.com/shilCode/Mangement-System-automated)
 
@@ -17,11 +18,11 @@
 </p>
 
 <h3 align="left">Languages</h3>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+ <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a align="center" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="40" height="40" /> </a>
   
