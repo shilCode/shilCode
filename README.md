@@ -1,5 +1,3 @@
-[!MasterHead](https://media.istockphoto.com/id/1167600158/vector/software-testing-web-banner-concept.jpg?s=170667a&w=0&k=20&c=XaEu-Jzg6pwrQI_PLeBzwu5ZS5XTHmVH8j1Cq7O-Dq4=)
-
 <h1 align="left">Hi 👋🏽 I am Mohat Shil</h1>
 <h3 align="left">A passionate QA Engineer </h3>
 <IMG align="right" SRC="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05c3R5Y21vcnlrNXpnMDBlNWl6Z2EzNWw0YTY0Y2NyenhtdzEydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4n42JVSqqUvAQg/200w.gif">
