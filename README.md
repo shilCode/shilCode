@@ -1,10 +1,6 @@
-<h1 align="left">Hi 👋🏽 I am Mohat Shil</h1>
+<h1 align="left">Hi 👋🏽 I am Mohat </h1>
 <h3 align="left">A passionate QA Engineer </h3>
 <IMG align="right" SRC="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05c3R5Y21vcnlrNXpnMDBlNWl6Z2EzNWw0YTY0Y2NyenhtdzEydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4n42JVSqqUvAQg/200w.gif">
-
-- 🔭 I’m currently working on [Playwright - UI/API](https://github.com/shilCode/Mangement-System-automated)
-
-- 🌱 I’m currently learning **OOP, Automation design patterns**
 
 - 👨‍💻 My expeience [https://mohat.vercel.app/](https://mohat.vercel.app/)
 
@@ -30,11 +26,9 @@
 <h3 align="left">Testing Framework:</h3>
 
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40" />
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/95f9060552c490befea503dea9b87aa13277c0d4ff0aeb18a870f52df665fed4/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" alt="webdriverIO" width="40" height="40" />
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-
-
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="cypress" width="40" height="40" />
+<a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6512473?s=200&v=4" alt="webdriverio" width="40" height="40" />
+<a href="https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="pptr" width="40" height="40" />
 
 <h3 align="left">Technologies I am constantly learning:</h3>
 
