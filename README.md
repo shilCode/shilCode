@@ -1,2 +1,3 @@
-<h2 align="left">Hi there 🙋🏼‍♂️</h2>
-<a href="https://mohat.vercel.app/"> My Intro Site</a>
+<h3 align="left">Hi👋🏽  </h3> <br>
+<a  href="https://mohat.vercel.app/">Click to view my intro site</a> <br> <br>
+<a  href="https://www.linkedin.com/in/mohat-shil/">Click to view my Linkedin</a>
