@@ -1,6 +1,6 @@
-<h3 align="left">Hi there👋🏽 Welcome to my github landing page</h3> 
-<p align="left">Once you are done reviewing my pinned repos, you can also <a  href="https://mohat.vercel.app/">click to view my intro site</a> or
-<a  href="https://www.linkedin.com/in/mohat-shil/">click to chat with me on Linkedin</a><p>
+<h1 align="left">Hi there👋🏽</h1>
+<h2> Curious about my projects? <h2>
+<h3>👇👇 click on pin projects projects 👇👇<h3>
 
 
 
